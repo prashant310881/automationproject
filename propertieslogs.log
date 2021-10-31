@@ -1,0 +1,124 @@
+[INFO ] 2021-10-31 15:11:14.953 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:11:23.794 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:11:24.117 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:11:24.143 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:11:26.240 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:11:26.577 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:11:26.588 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:11:28.617 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:11:28.945 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:11:28.961 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:11:31.069 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:11:31.423 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:19:37.609 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:19:42.956 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:19:43.284 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:19:46.601 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:19:47.536 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:19:49.162 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:20:47.956 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:20:53.676 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:20:54.119 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:21:05.269 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:21:06.836 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:21:07.191 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:21:10.869 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:21:12.681 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:21:13.009 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:21:16.479 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:21:18.335 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:21:18.647 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:26:50.796 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:26:56.594 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:26:56.974 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:27:01.080 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:27:09.947 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:27:11.714 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:27:12.044 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:27:14.338 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:27:14.372 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:27:16.261 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:27:16.585 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:27:18.178 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:27:18.192 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:27:20.060 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:27:20.384 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:27:22.457 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:32:08.584 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:32:14.555 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:32:14.916 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:32:19.395 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:32:20.598 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:32:22.038 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:33:48.664 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:33:54.181 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:33:54.613 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:33:59.129 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:34:09.126 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:34:10.742 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:34:11.069 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:34:13.298 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:34:13.325 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:34:15.016 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:34:15.350 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:34:17.357 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:34:17.374 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:34:18.946 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:34:19.283 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:34:21.073 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:37:07.784 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:37:13.381 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:37:13.741 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:37:16.822 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:37:20.124 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:37:21.900 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:37:22.222 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:37:24.372 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:37:24.391 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:37:26.259 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:37:26.602 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:37:28.203 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:37:28.227 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:37:29.985 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:37:30.301 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:37:32.080 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:41:50.115 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:41:55.704 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:41:56.055 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:42:00.424 [main] FirstTestWithTestNG - Login successful
+[INFO ] 2021-10-31 15:42:00.426 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:42:03.565 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:42:05.315 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:42:05.643 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:42:07.699 [main] FirstTestWithTestNG - Login failed
+[INFO ] 2021-10-31 15:42:07.700 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:42:07.735 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:42:09.207 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:42:09.533 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:42:11.189 [main] FirstTestWithTestNG - Login failed
+[INFO ] 2021-10-31 15:42:11.190 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:42:11.206 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:42:12.990 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:42:13.318 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:42:15.283 [main] FirstTestWithTestNG - Login successful
+[INFO ] 2021-10-31 15:42:15.283 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:46:12.351 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:46:18.934 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:46:19.288 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:46:22.729 [main] FirstTestWithTestNG - Login successful
+[INFO ] 2021-10-31 15:46:22.730 [main] FirstTestWithTestNG - Test passed
+[INFO ] 2021-10-31 15:46:26.067 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:46:28.184 [main] FirstTestWithTestNG - Logging with username: Admin11
+[INFO ] 2021-10-31 15:46:28.512 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:46:30.112 [main] FirstTestWithTestNG - Login failed
+[INFO ] 2021-10-31 15:46:30.113 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:46:30.162 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:46:31.674 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:46:32.002 [main] FirstTestWithTestNG - Logging with password: Admin12345
+[INFO ] 2021-10-31 15:46:33.564 [main] FirstTestWithTestNG - Login failed
+[INFO ] 2021-10-31 15:46:33.565 [main] FirstTestWithTestNG - Test failed
+[INFO ] 2021-10-31 15:46:33.606 [main] FirstTestWithTestNG - This is a test for login functionality
+[INFO ] 2021-10-31 15:46:35.563 [main] FirstTestWithTestNG - Logging with username: Admin
+[INFO ] 2021-10-31 15:46:35.877 [main] FirstTestWithTestNG - Logging with password: Admin123
+[INFO ] 2021-10-31 15:46:37.728 [main] FirstTestWithTestNG - Login successful
+[INFO ] 2021-10-31 15:46:37.728 [main] FirstTestWithTestNG - Test passed

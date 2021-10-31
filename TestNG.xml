@@ -1,0 +1,20 @@
+<element>
+	<suite name="softwaretestingmaterial">
+
+		<test name="testingTest">
+			<classes>
+
+
+			
+				<class name="POMTEST.FirstTestWithTestNGClass"></class>
+			   
+			
+			</classes>
+
+		</test>
+
+
+
+
+	</suite>
+</element>
